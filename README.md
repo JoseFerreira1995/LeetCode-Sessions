@@ -1,0 +1,1 @@
+A collection of JavaScript solutions to LeetCode problems, created to strengthen my problem-solving skills and deepen my understanding of algorithms and data structures. This repository serves as a personal learning journey, documenting my progress and improving my ability to write efficient, clean, and scalable code.
