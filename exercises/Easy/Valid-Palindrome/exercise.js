@@ -13,6 +13,7 @@ function isPalindrome(s) {
   return true;
 }
 
-const runFunction = isPalindrome("Was it a car or a cat I saw?");
+const runFunction = isPalindrome("A man, a plan, a canal: Panama");
+console.log(runFunction)
 
 
